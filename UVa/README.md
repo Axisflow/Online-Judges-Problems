@@ -37,8 +37,8 @@
 | 33. | Simply Emirp | (CPE10428, UVA10235) | ✔️ |
 | 34. | 2 the 9s | (CPE10458, UVA10922) | ✔️ |
 | 35. | GCD | (CPE11076, UVA11417) |   |
-| 36. | Largest Square | (CPE10456, UVA10908) |   |
-| 37. | Satellites | (CPE10424, UVA10221) |   |
+| 36. | Largest Square | (CPE10456, UVA10908) | ✔️ |
+| 37. | Satellites | (CPE10424, UVA10221) | ✔️ |
 | 38. | Can You Solve It? | (CPE10447, UVA10642) |   |
 | 39. | Fourth Point!! | (CPE10566, UVA10242) |   |
 | 40. | A mid-summer night’s dream | (CPE10409, UVA10057) |   |
