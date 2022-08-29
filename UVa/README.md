@@ -19,8 +19,8 @@
 | 15. | Jolly Jumpers | (CPE10405, UVA10038) | ❌ |
 | 16. | What is the Probability!! | (CPE10408, UVA10056) | ✔️ |
 | 17. | The Hotel with Infinite Rooms | (CPE10417, UVA10170) | ✔️ |
-| 18. | 498’ | (CPE10431, UVA10268) |   |
-| 19. | Odd Sum | (CPE10453, UVA10783) |   |
+| 18. | 498’ | (CPE10431, UVA10268) | ✔️ |
+| 19. | Odd Sum | (CPE10453, UVA10783) | ✔️ |
 | 20. | Beat the Spread! | (CPE10454, UVA10812) | ✔️ |
 | 21. | Symmetric Matrix | (CPE10478, UVA11349) | ✔️ |
 | 22. | Square Numbers | (CPE10480, UVA11461) | ✔️ |
@@ -36,11 +36,11 @@
 | 32. | Divide, But Not Quite Conquer! | (CPE10419, UVA10190) | ✔️ |
 | 33. | Simply Emirp | (CPE10428, UVA10235) | ✔️ |
 | 34. | 2 the 9s | (CPE10458, UVA10922) | ✔️ |
-| 35. | GCD | (CPE11076, UVA11417) |   |
+| 35. | GCD | (CPE11076, UVA11417) | ✔️ |
 | 36. | Largest Square | (CPE10456, UVA10908) | ✔️ |
 | 37. | Satellites | (CPE10424, UVA10221) | ✔️ |
 | 38. | Can You Solve It? | (CPE10447, UVA10642) |   |
-| 39. | Fourth Point!! | (CPE10566, UVA10242) |   |
+| 39. | Fourth Point!! | (CPE10566, UVA10242) | ✔️ |
 | 40. | A mid-summer night’s dream | (CPE10409, UVA10057) |   |
 | 41. | Tell me the frequencies! | (CPE10410, UVA10062) | ⚠️PRE |
 | 42. | Train Swapping | (CPE22811, UVA299) | ✔️ |
