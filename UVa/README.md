@@ -39,7 +39,7 @@
 | 35. | GCD | (CPE11076, UVA11417) | ✔️ |
 | 36. | Largest Square | (CPE10456, UVA10908) | ✔️ |
 | 37. | Satellites | (CPE10424, UVA10221) | ✔️ |
-| 38. | Can You Solve It? | (CPE10447, UVA10642) |   |
+| 38. | Can You Solve It? | (CPE10447, UVA10642) | ✔️ |
 | 39. | Fourth Point!! | (CPE10566, UVA10242) | ✔️ |
 | 40. | A mid-summer night’s dream | (CPE10409, UVA10057) |   |
 | 41. | Tell me the frequencies! | (CPE10410, UVA10062) | ⚠️PRE |
@@ -48,6 +48,6 @@
 | 44. | Minesweeper | (CPE10418, UVA10189) | ✔️ |
 | 45. | Die Game | (CPE11019, UVA10409) | ✔️ |
 | 46. | Eb Alto Saxophone Player | (CPE11020, UVA10415) | ✔️ |
-| 47. | Mutant Flatworld Explorers | (CPE23641, UVA118) |   |
+| 47. | Mutant Flatworld Explorers | (CPE23641, UVA118) | ✔️ |
 | 48. | Cola | (CPE11067, UVA11150) | ✔️ |
 | 49. | Sort! Sort!! and Sort!!! | (CPE11069, UVA11321) | ✔️ |
