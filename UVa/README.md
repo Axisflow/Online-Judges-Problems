@@ -16,7 +16,7 @@
 | 12. | Rotating Sentences | (CPE21914, UVA490) | ✔️ |
 | 13. | TeX Quotes | (CPE22131, UVA272) | ✔️ |
 | 14. | A - Doom's Day Algorithm | (CPE22801, UVA12019) | ✔️ |
-| 15. | Jolly Jumpers | (CPE10405, UVA10038) | ❌ |
+| 15. | Jolly Jumpers | (CPE10405, UVA10038) | ✔️ |
 | 16. | What is the Probability!! | (CPE10408, UVA10056) | ✔️ |
 | 17. | The Hotel with Infinite Rooms | (CPE10417, UVA10170) | ✔️ |
 | 18. | 498’ | (CPE10431, UVA10268) | ✔️ |
@@ -41,7 +41,7 @@
 | 37. | Satellites | (CPE10424, UVA10221) | ✔️ |
 | 38. | Can You Solve It? | (CPE10447, UVA10642) | ✔️ |
 | 39. | Fourth Point!! | (CPE10566, UVA10242) | ✔️ |
-| 40. | A mid-summer night’s dream | (CPE10409, UVA10057) |   |
+| 40. | A mid-summer night’s dream | (CPE10409, UVA10057) | ✔️ |
 | 41. | Tell me the frequencies! | (CPE10410, UVA10062) | ⚠️PRE |
 | 42. | Train Swapping | (CPE22811, UVA299) | ✔️ |
 | 43. | Hardwood Species | (CPE10426, UVA10226) | ✔️ |
