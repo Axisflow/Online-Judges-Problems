@@ -16,27 +16,29 @@ int main() {
                 order = order * 10 + c - '0';
             } else {
                 if(c == '0') break;
+
                 mut = true;
                 order = c - '0';
             }
         } else {
             if(mut) {
-                mut = false;
                 cout << list[list.size() - order];
+                
                 list.push_back(list[list.size() - order]);
                 list.erase(list.end() - order - 1);
+                mut = false;
             }
 
             if(('A' <= c && c <= 'Z') || ('a' <= c && c <= 'z')) {
                 s += c; 
             } else {
                 cout << s << c;
+
                 if(s != "") list.push_back(s);
                 s = "";
             }
         }
     }
-    
 
     return 0;
 }
